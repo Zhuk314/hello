@@ -1,0 +1,15 @@
+{
+  "name": "http://yzhuk.greenriverdev.com/328/hello/",
+  "authors": [
+    {
+      "name": "Yurii Zhuk",
+      "email": "yzhuk@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+
+
+}
